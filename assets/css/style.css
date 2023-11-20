@@ -75,7 +75,6 @@
 }
 @media screen and (max-width: 600px) {
   .content__divider {
-    background-image: url(../images/pattern-divider-mobile.svg);
     margin: 24px 0px;
   }
 }
