@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/Abrham007/advice-generator-app.git)
-- Live Site URL: [live site URL](https://github.com/Abrham007/advice-generator-app.git)
+- Live Site URL: [live site URL](https://abrham007.github.io/advice-generator-app/)
 
 ## My process
 
