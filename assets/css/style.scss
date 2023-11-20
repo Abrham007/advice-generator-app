@@ -79,7 +79,6 @@
     margin: 40px 0px;
 
     @include custom-media(600px) {
-      background-image: url(../images/pattern-divider-mobile.svg);
       margin: 24px 0px;
     }
   }
